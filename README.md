@@ -1,5 +1,5 @@
 # atcoder-ts
-atcoder TypeScript template
+[AtCoder](https://atcoder.jp/?lang=ja) TypeScript minimum template
 
 ## HowToUse
 1. clone this repository
