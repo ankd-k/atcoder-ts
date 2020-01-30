@@ -9,7 +9,7 @@ atcoder TypeScript template
 5. copy and paste to atcoder's editor
 
 ## Feature
-- testing program on your local repo
+- testing program on your local pc
 - enable using stdin
 
 ## Ref
